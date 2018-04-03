@@ -1,5 +1,5 @@
 # Angular-1.5-RequireJS
-## Configured RequireJS
+
 ### RequireJS
 * RequireJS is a JavaScript file and module loader. It is optimized for in-browser use. 
 * Using a modular script loader like RequireJS will improve the speed and quality of your code.
